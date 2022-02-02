@@ -1,0 +1,187 @@
+{
+  "admin": {
+    "username": "admin",
+    "password": "80e8cc55244a79e8415e0e8ae71f834c",
+    "loginToken": "99a17a3b409a4ae4e107445cc2f34c1c",
+    "logs": [
+      {
+        "time": "2020-01-11T15:23:07.971Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-01-24T16:02:00.742Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-01-24T16:55:35.536Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-01-24T16:56:08.660Z",
+        "type": "INFO",
+        "message": "689698b9b2e86f5e Connected"
+      },
+      {
+        "time": "2022-01-24T16:56:09.259Z",
+        "type": "INFO",
+        "message": "689698b9b2e86f5e Notification Recieved"
+      },
+      {
+        "time": "2022-01-24T16:56:30.565Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From 689698b9b2e86f5e"
+      },
+      {
+        "time": "2022-01-24T16:56:38.719Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From 689698b9b2e86f5e"
+      },
+      {
+        "time": "2022-01-24T16:56:39.938Z",
+        "type": "INFO",
+        "message": "689698b9b2e86f5e Connected"
+      },
+      {
+        "time": "2022-01-24T16:56:59.353Z",
+        "type": "INFO",
+        "message": "Requested 0xCO From 689698b9b2e86f5e"
+      },
+      {
+        "time": "2022-01-24T16:57:04.210Z",
+        "type": "SUCCESS",
+        "message": "689698b9b2e86f5e Contacts Updated - 3 New Contacts Added"
+      },
+      {
+        "time": "2022-01-24T16:57:32.862Z",
+        "type": "INFO",
+        "message": "689698b9b2e86f5e Disconnected"
+      },
+      {
+        "time": "2022-01-25T06:54:03.569Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2022-01-25T06:57:01.270Z",
+        "type": "INFO",
+        "message": "689698b9b2e86f5e Connected"
+      },
+      {
+        "time": "2022-01-25T06:57:58.336Z",
+        "type": "INFO",
+        "message": "Requested 0xPM From 689698b9b2e86f5e"
+      },
+      {
+        "time": "2022-01-25T06:57:58.344Z",
+        "type": "SUCCESS",
+        "message": "689698b9b2e86f5e Permissions Updated"
+      },
+      {
+        "time": "2022-01-25T06:58:06.477Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 689698b9b2e86f5e"
+      },
+      {
+        "time": "2022-01-25T06:58:06.490Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-01-25T06:58:15.137Z",
+        "type": "INFO",
+        "message": "Requested 0xFI From 689698b9b2e86f5e"
+      },
+      {
+        "time": "2022-01-25T06:58:15.152Z",
+        "type": "SUCCESS",
+        "message": "File List Updated"
+      },
+      {
+        "time": "2022-01-25T06:58:39.873Z",
+        "type": "INFO",
+        "message": "Requested 0xLO From 689698b9b2e86f5e"
+      },
+      {
+        "time": "2022-01-25T06:58:39.882Z",
+        "type": "SUCCESS",
+        "message": "689698b9b2e86f5e GPS Updated"
+      },
+      {
+        "time": "2022-01-25T07:00:11.676Z",
+        "type": "INFO",
+        "message": "689698b9b2e86f5e Notification Recieved"
+      },
+      {
+        "time": "2022-01-25T07:00:29.089Z",
+        "type": "INFO",
+        "message": "689698b9b2e86f5e Notification Recieved"
+      },
+      {
+        "time": "2022-01-25T07:00:29.145Z",
+        "type": "INFO",
+        "message": "689698b9b2e86f5e Notification Recieved"
+      },
+      {
+        "time": "2022-01-25T07:00:47.792Z",
+        "type": "INFO",
+        "message": "689698b9b2e86f5e Notification Recieved"
+      },
+      {
+        "time": "2022-01-25T07:00:47.804Z",
+        "type": "INFO",
+        "message": "689698b9b2e86f5e Notification Recieved"
+      },
+      {
+        "time": "2022-01-25T07:01:34.857Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From 689698b9b2e86f5e"
+      },
+      {
+        "time": "2022-01-25T07:01:40.128Z",
+        "type": "INFO",
+        "message": "Requested 0xWI From 689698b9b2e86f5e"
+      },
+      {
+        "time": "2022-01-25T07:01:40.158Z",
+        "type": "SUCCESS",
+        "message": "689698b9b2e86f5e WiFi Updated - 1 New WiFi Hotspots Found"
+      },
+      {
+        "time": "2022-01-25T07:01:46.376Z",
+        "type": "INFO",
+        "message": "Requested 0xIN From 689698b9b2e86f5e"
+      },
+      {
+        "time": "2022-01-25T07:01:46.539Z",
+        "type": "SUCCESS",
+        "message": "689698b9b2e86f5e Apps Updated"
+      },
+      {
+        "time": "2022-01-25T07:02:10.990Z",
+        "type": "INFO",
+        "message": "689698b9b2e86f5e Disconnected"
+      }
+    ],
+    "ipLog": []
+  },
+  "clients": [
+    {
+      "clientID": "689698b9b2e86f5e",
+      "firstSeen": "2022-01-24T16:56:08.652Z",
+      "lastSeen": "2022-01-25T07:02:10.990Z",
+      "isOnline": false,
+      "dynamicData": {
+        "clientIP": "192.168.43.208",
+        "clientGeo": {},
+        "device": {
+          "model": "SM-N975F",
+          "manufacture": "samsung",
+          "version": "7.1.2"
+        }
+      }
+    }
+  ]
+}
